@@ -1,5 +1,0 @@
-{{#user}
-Name: Hosam
-Skills: HTML, CSS, JS, REACTJS
-Email: hossamabualgassim@gmail.com
-{{/user}}
